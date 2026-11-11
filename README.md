@@ -1,4 +1,4 @@
-# Resume Screener
+# NexHire
 
 🔗 **Live Demo:** [https://resume-screener-8lri.onrender.com](https://resume-screener-8lri.onrender.com)
 
